@@ -2,3 +2,36 @@
 .vscode/
 .cache/
 *.log
+# 操作系统垃圾
+.DS_Store
+Thumbs.db
+
+# IDE / 编辑器环境
+.vscode-server/
+.vscode/
+.idea/
+.pycharm_helpers/
+
+# Python 环境与缓存
+venv/
+pwn_env/
+__pycache__/
+*.pyc
+
+# C/C++ 编译产物
+*.o
+*.out
+*.exe
+a.out
+
+# 敏感信息（绝不能泄露）
+*.log
+.env
+.ssh/
+
+# 超大二进制文件/固件/模型权重
+*.bin
+*.img
+*.safetensors
+*.zip
+*.tar.gz
