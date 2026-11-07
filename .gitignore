@@ -35,3 +35,7 @@ a.out
 *.safetensors
 *.zip
 *.tar.gz
+
+# 无后缀的编译后可执行文件
+
+vuln
