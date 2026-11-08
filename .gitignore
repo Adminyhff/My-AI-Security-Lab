@@ -5,6 +5,7 @@
 # 操作系统垃圾
 .DS_Store
 Thumbs.db
+*:Zone.Identifier
 
 # IDE / 编辑器环境
 .vscode-server/
