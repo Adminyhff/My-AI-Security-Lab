@@ -9,10 +9,10 @@ AI Security: Exploring LLM jailbreaking, Agent hijacking, and automated red team
 IoT/Cloud: Firmware reverse engineering and high-concurrency disaster recovery.
 
 #  Lab Index
-[Lab 01-10] Binary Exploitation (Pwn) - Foundational memory corruption labs.
+[Lab 01-9] Binary Exploitation (Pwn) - Foundational memory corruption labs.
 
-[Lab 11-15] AI Security - Offensive/Defensive AI research.
+[Lab 10-14] AI Security - Offensive/Defensive AI research.
 
-[Lab 16] High-concurrency - Cluster simulations.
+[Lab 15] High-concurrency - Cluster simulations.
 
 *"Turning curiosity into exploits, and exploits into defenses."*
